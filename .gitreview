@@ -1,0 +1,5 @@
+[gerrit]
+host=review.calyxos.org
+port=29418
+project=CalyxOS/vendor_google_devices
+defaultbranch=android11-qpr1
